@@ -43,7 +43,6 @@ This project showcases my understanding of two machine learning techniques: **De
 ### 🧪 Evaluation:
 - Handled missing values and categorical features.
 - Compared training and validation accuracy.
-- Analyzed feature importance (optional addition).
 - Displayed classification metrics (confusion matrix, precision, recall).
 
 ---
