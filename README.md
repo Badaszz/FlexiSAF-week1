@@ -1,4 +1,4 @@
-# FlexiSAF-week1
+# FlexiSAF-week2
 # ML Internship Project — FlexiSAF Internship Programme
 
 This project showcases my understanding of two machine learning techniques: **Deep Learning using Convolutional Neural Networks (CNNs)** and **Ensemble Learning using Random Forests with Hyperparameter Tuning**. Each model is implemented on a different dataset using Python and Jupyter Notebooks on Google Colab.
